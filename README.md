@@ -3,8 +3,8 @@
 A console-like game that mimics Atari Asterois in many respects (including some sound-fx) with a more modern 3D look to the interface.
 Can be compiled for native platforms or WebGL.
 
-A live WebGL version plays in your browser at https://webgl.goocto.com/asteroids
-A GitHub code repository can be found at https://github.com/GoOcto/asteroids-unity
+- A live WebGL version plays in your browser at https://webgl.goocto.com/asteroids
+- A GitHub code repository can be found at https://github.com/GoOcto/asteroids-unity
 
 
 
