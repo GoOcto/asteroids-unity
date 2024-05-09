@@ -1,6 +1,6 @@
 # asteroids-unity
 
-A console-like game that mimics Atari Asterois in many respects (including some sound-fx) with a more modern 3D look to the interface.
+A console-like game that mimics Atari Asteroids in many respects (including some sound-fx) with a more modern 3D look to the interface.
 Can be compiled for native platforms or WebGL.
 
 - A live WebGL version plays in your browser at https://webgl.goocto.com/asteroids
